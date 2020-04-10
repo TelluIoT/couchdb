@@ -1,4 +1,4 @@
-module github.com/go-kivik/couchdb/v4
+module github.com/TelluIoT/couchdb/v4
 
 go 1.13
 
